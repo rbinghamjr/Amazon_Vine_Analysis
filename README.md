@@ -19,16 +19,10 @@ The below analysis was filtered off of the DataFrame above.
 ### Vine Reviews
 
 - There were a total of 94 paid reviews
-
-![image](https://user-images.githubusercontent.com/90691846/148697974-859aac1b-d54b-4eb1-8a9f-6c586270f26a.png)
-
- - There were a total of 48 5-star paid reviews
-
-![image](https://user-images.githubusercontent.com/90691846/148698142-f7d0261d-79f8-41ce-bf93-591ff28837a8.png)
-
- - Roughly 51% of the paid reviews were 5-star reviews
+- There were a total of 48 5-star paid reviews
+- Roughly 51% of the paid reviews were 5-star reviews
  
- ![image](https://user-images.githubusercontent.com/90691846/148698175-3595e767-6d62-411c-9f3c-fa4d873fe895.png)
+![image](https://user-images.githubusercontent.com/90691846/148698360-75a59d93-b18d-48da-8137-5d7fbd781ee5.png)
 
 ### non-Vine Reviews
 
@@ -40,5 +34,5 @@ The below analysis was filtered off of the DataFrame above.
 
 ## Summary
 
-In comparison og the unpaid versus paid reviews, it appears there is a slight bias for the paid subscribers since there is a 12% variance between the percentages. Another way to determine bias outside of the percentages would be to analyze the statistics of each i.e., median, mean, standard deviation.
+In comparison of the unpaid versus paid reviews, it appears there is a slight bias for the paid subscribers since there is a 12% variance between the percentages. Another way to determine bias outside of the percentages would be to analyze the statistics of each i.e., median, mean, standard deviation.
 
